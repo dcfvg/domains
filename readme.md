@@ -1,10 +1,11 @@
 domains
 ===
 
+_Check availability of five letters ".com" domain using neighboring letters on the keyboard_
+
 ![](http://domains.dcfvg.com/cache-hd/dcfvg.gif)
+
+> Some names are more typed than pronounced. 
 
 http://domains.dcfvg.com
 
-> Some domain names are more typed than pronounced. 
-
-> Here is all 5 char .com possible domain names using only the closest letters. 
